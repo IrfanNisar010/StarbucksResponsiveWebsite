@@ -1,16 +1,8 @@
 *{
     margin: 0;
     box-sizing: border-box;
-}
-@font-face {
    font-family: sans-serif;
-   font-weight: 500;
 }
-@font-face {
- font-family: sans-serif;
- font-weight: 500;
-}
-
 a{
     width: 120px;
     height: 60px;
@@ -116,9 +108,9 @@ a{
 
 }
 
-/* @media (max-width:757px){
+@media (max-width:757px){
     .navbar-collapse{
-        background-color: #fff;
+        background-color: #000000;
         height: 20rem;
     }
     .location{
@@ -127,7 +119,7 @@ a{
     .btn-outline-secondary{
         margin-left: -150px;
     }
-} */
+}
 hr{
     color: #11171780;
     height: 4px;
